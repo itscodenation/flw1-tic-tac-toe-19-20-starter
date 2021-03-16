@@ -11,7 +11,6 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 #### GitHub Set-Up
 - [x] Go to the repository
 - [ ] Fork this repository to your github account and import into a new Glitch project
-- [ ] Make your site live on gh-pages
 - [ ] Submit your website using the link on the Agenda
 
 ### Day 1 Goal 2: Create variables to keep track of game data
